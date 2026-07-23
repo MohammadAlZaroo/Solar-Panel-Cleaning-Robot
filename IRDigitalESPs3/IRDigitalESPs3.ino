@@ -1,4 +1,5 @@
-const int irPin = 15;
+const int irPin = 11;
+//const int irPin = 38;
 
 void setup() {
   Serial.begin(115200);
